@@ -6,7 +6,6 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="./assets/css/styles.css">
-        <link rel="stylesheet" href="./assets/css/estilos.css">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
         <script type="text/javascript" src="./assets/js/mobile.js"></script>
         <script src="https://kit.fontawesome.com/eb496ab1a0.js"></script>
@@ -19,9 +18,10 @@
                 <ul class="nav__links">
                     <li><a href="#">Cursos</a></li>
                     <li><a href="#">¿Quienes somos?</a></li>
+                    <li><a href="#">Iniciar sesión</a></li>
                 </ul>
             </nav>
-            <a class="cta" href="#">Registrate</a>
+            <a class="cta" href="./vistas/sign-up.html">Registrate</a>
             <p class="menu cta">Menu</p>
         </header>
         <div id="mobile__menu" class="overlay">
@@ -43,7 +43,7 @@
                 <div class="img-container"></div>
                 <div class="texto">
 
-                    <h2>Somos <span class="color-acento">ProgramaYa!</span></h2>
+                    <h2 class="somos">Somos, <span class="color-acento">¡Aprendiendo!</span></h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit veritatis a autem sed dignissimos commodi, voluptas incidunt voluptatibus cum, quia neque nulla consequatur laborum accusamus, perspiciatis odio nemo minus vel!</p>
                 </div>
             </div>
