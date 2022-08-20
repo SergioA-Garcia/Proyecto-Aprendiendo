@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Navbar</title>
+    <title>Inicio - Aprendiendo</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="./assets/css/styles.css">
@@ -17,8 +17,9 @@
         <a class="logo" href="index.php"><h2>Aprendiendo</h2></a>
         <nav>
             <ul class="nav__links">
-               <li><a href="#">Cursos</a></li>
+               <li><a href="./vistas/curso.php">Cursos</a></li>
                <li><a href="#">¿Quienes somos?</a></li>
+               <li><a href="#">Iniciar sesión</a></li>
             </ul>
         </nav>
             <a class="cta" href="#">Registrate</a>
